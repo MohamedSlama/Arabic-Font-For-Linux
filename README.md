@@ -6,4 +6,4 @@ Hello This is an arabic and english font for linux based on google kite-one font
 Installation:
 simply move it to your font folder : <b>~/usr/local/share/fonts</b>  or ~/usr/share/fonts
 
-<img src="https://goo.gl/Ji77Ug" />
+<img src="https://github.com/MohamedSlama/Arabic-Font-For-Linux/blob/master/besm%20ellah.png" />
